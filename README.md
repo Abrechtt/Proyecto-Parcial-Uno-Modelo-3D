@@ -1,4 +1,4 @@
-####Introducción
+# Introducción
 Proyecto de creación de un sheader para representar de forma estilizada el render de un personaje 3D, desarrollado en HLSL.
 
 Teniedo integrado los siguientes puntos:
@@ -10,7 +10,7 @@ Teniedo integrado los siguientes puntos:
 - Debes tener color (Phong color) para pintar el brillo del phong.
 - Utiliza la técnica de "Banded" para modificar tu modelo de luz y crear una Ramp Texture de forma procedural.
 
-####Desarrollo
+## Desarrollo
 Codigo:
 ```HLSL
 Shader "Custom/SDUltimate"
